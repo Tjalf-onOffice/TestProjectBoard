@@ -1,3 +1,4 @@
 some file for testing
 Now I implemented something correct
 Now add implementation of issue2
+Added a fix to the implementation
